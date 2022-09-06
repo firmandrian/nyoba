@@ -1,0 +1,20 @@
+* {
+	background-color: yellow;
+}
+.contents-item {
+	float: left;
+}
+h2 {
+	text-align: center;
+
+	color: blue;
+}
+h3 {
+	font-size: 25px;
+	margin-bottom: 5px;
+	color: red;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+}
